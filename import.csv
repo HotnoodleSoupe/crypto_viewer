@@ -1,0 +1,3 @@
+date,exchange,tx_type,invested,amount,kyc,note
+2024-10-05,testEX,BUY,500.00,1.5,true,testdata
+2025-05-23,musterEX,BUY,100.00,1.25,true,testdata
